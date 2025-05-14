@@ -1,0 +1,501 @@
+ID,Produit,Catégorie,Quantité,Prix Unitaire (€),Seuil Min,Date d'entrée,Fournisseur
+1,Lingettes,Bébé,413,134.19,6,2025-02-15,BabyCare
+2,Mixeur,Électroménager,107,171.87,10,2025-04-04,HygiPlus
+3,Mixeur,Électroménager,318,98.12,14,2025-03-14,VetDistribution
+4,Bouilloire,Électroménager,475,11.52,43,2025-02-14,TechMarket
+5,Shampoing,Hygiène,195,44.32,8,2025-03-25,HygiPlus
+6,Riz,Alimentation,198,81.35,25,2025-03-24,VetDistribution
+7,Veste,Vêtements,221,49.69,50,2025-01-26,HygiPlus
+8,Biberon,Bébé,479,15.53,8,2025-04-07,DistriFood
+9,Aspirateur,Électroménager,296,127.23,44,2025-01-22,PetHouse
+10,Vis,Bricolage,172,229.27,14,2025-01-19,PetHouse
+11,Gamelle,Animaux,157,7.69,17,2025-03-19,PetHouse
+12,Dentifrice,Hygiène,356,49.29,19,2025-01-20,BabyCare
+13,Chaussettes,Vêtements,276,243.45,7,2025-01-08,DistriFood
+14,Jouet chien,Animaux,324,143.61,6,2025-02-23,TechMarket
+15,Litière,Animaux,277,40.8,6,2025-04-06,HygiPlus
+16,Savon,Hygiène,164,159.24,47,2025-01-14,HygiPlus
+17,Veste,Vêtements,19,107.78,18,2025-02-12,Bricomax
+18,Veste,Vêtements,457,95.81,19,2025-03-26,Bricomax
+19,Jus d'orange,Alimentation,431,51.29,41,2025-01-10,TechMarket
+20,Savon,Hygiène,470,172.76,21,2025-01-08,TechMarket
+21,Pull,Vêtements,65,202.23,25,2025-02-01,DistriFood
+22,Céréales,Alimentation,445,106.69,35,2025-02-26,Bricomax
+23,Jean,Vêtements,349,140.8,5,2025-02-04,TechMarket
+24,Couches,Bébé,45,130.9,45,2025-03-12,VetDistribution
+25,Mixeur,Électroménager,223,56.12,34,2025-02-23,BabyCare
+26,Veste,Vêtements,230,170.74,36,2025-02-05,HygiPlus
+27,Mixeur,Électroménager,175,89.4,32,2025-03-11,BabyCare
+28,Jouet chien,Animaux,282,137.56,42,2025-03-19,HygiPlus
+29,Marteau,Bricolage,119,150.26,32,2025-02-16,DistriFood
+30,Pull,Vêtements,477,83.19,27,2025-03-05,BabyCare
+31,Tournevis,Bricolage,246,124.44,30,2025-02-25,VetDistribution
+32,Vis,Bricolage,84,31.37,19,2025-03-07,TechMarket
+33,Jouet chien,Animaux,271,176.43,22,2025-02-13,BabyCare
+34,Vis,Bricolage,93,75.36,38,2025-02-01,VetDistribution
+35,Gamelle,Animaux,293,6.83,29,2025-03-06,DistriFood
+36,Lait bébé,Bébé,47,148.72,26,2025-01-15,DistriFood
+37,Biscottes,Alimentation,341,148.56,14,2025-01-19,PetHouse
+38,Gel douche,Hygiène,210,190.64,14,2025-02-24,TechMarket
+39,Bouilloire,Électroménager,4,107.25,21,2025-01-27,DistriFood
+40,Vis,Bricolage,404,228.58,7,2025-01-18,HygiPlus
+41,Jouet chien,Animaux,35,178.46,28,2025-01-27,TechMarket
+42,Jean,Vêtements,338,178.99,9,2025-02-02,Bricomax
+43,Grille-pain,Électroménager,365,30.11,32,2025-01-21,DistriFood
+44,Gamelle,Animaux,148,64.19,46,2025-02-14,BabyCare
+45,Déodorant,Hygiène,347,21.06,26,2025-03-04,VetDistribution
+46,Biscottes,Alimentation,273,153.55,47,2025-03-27,DistriFood
+47,T-shirt,Vêtements,220,69.58,21,2025-01-13,DistriFood
+48,Gamelle,Animaux,336,195.92,20,2025-02-10,Bricomax
+49,Biscottes,Alimentation,145,227.34,9,2025-03-07,VetDistribution
+50,Grille-pain,Électroménager,220,150.8,13,2025-03-15,HygiPlus
+51,Perceuse,Bricolage,5,63.47,45,2025-03-08,DistriFood
+52,Gamelle,Animaux,332,78.94,13,2025-02-15,PetHouse
+53,Biscottes,Alimentation,178,209.53,37,2025-04-07,TechMarket
+54,Lait bébé,Bébé,205,116.69,8,2025-01-13,DistriFood
+55,Gel douche,Hygiène,414,19.87,23,2025-02-16,Bricomax
+56,Vis,Bricolage,154,187.04,49,2025-03-22,BabyCare
+57,Jus d'orange,Alimentation,271,162.88,9,2025-01-16,TechMarket
+58,Biberon,Bébé,421,17.28,27,2025-02-22,Bricomax
+59,Shampoing,Hygiène,91,128.07,44,2025-03-25,Bricomax
+60,Gamelle,Animaux,396,113.11,7,2025-02-17,TechMarket
+61,Grille-pain,Électroménager,489,7.27,10,2025-02-18,DistriFood
+62,Clous,Bricolage,395,180.76,23,2025-01-19,HygiPlus
+63,Perceuse,Bricolage,490,167.98,28,2025-01-12,PetHouse
+64,Bouilloire,Électroménager,168,143.44,26,2025-03-20,VetDistribution
+65,Shampoing,Hygiène,406,222.68,12,2025-01-09,VetDistribution
+66,Veste,Vêtements,50,248.38,5,2025-02-28,HygiPlus
+67,Litière,Animaux,370,226.04,8,2025-02-05,HygiPlus
+68,Clous,Bricolage,14,135.78,28,2025-01-30,HygiPlus
+69,Croquettes,Animaux,189,5.75,37,2025-01-17,PetHouse
+70,Jus d'orange,Alimentation,194,69.02,39,2025-02-14,VetDistribution
+71,T-shirt,Vêtements,167,208.42,36,2025-03-21,VetDistribution
+72,Dentifrice,Hygiène,92,155.27,36,2025-01-31,BabyCare
+73,Shampoing,Hygiène,64,197.47,31,2025-02-17,VetDistribution
+74,Vis,Bricolage,78,216.23,34,2025-03-04,Bricomax
+75,Riz,Alimentation,383,236.92,19,2025-02-18,Bricomax
+76,Déodorant,Hygiène,298,109.0,45,2025-01-20,TechMarket
+77,Veste,Vêtements,246,32.64,6,2025-02-20,TechMarket
+78,Croquettes,Animaux,218,61.93,42,2025-01-18,Bricomax
+79,Lait,Alimentation,477,79.25,16,2025-03-02,Bricomax
+80,Shampoing,Hygiène,127,88.66,28,2025-02-24,PetHouse
+81,Pull,Vêtements,457,5.46,39,2025-01-15,Bricomax
+82,Lait bébé,Bébé,4,49.69,39,2025-03-11,PetHouse
+83,Dentifrice,Hygiène,7,94.17,28,2025-03-25,HygiPlus
+84,Jus d'orange,Alimentation,261,86.8,27,2025-02-22,TechMarket
+85,Chaussettes,Vêtements,139,2.09,8,2025-03-06,DistriFood
+86,Jouet chien,Animaux,234,220.68,39,2025-02-24,VetDistribution
+87,Céréales,Alimentation,455,178.89,32,2025-01-26,BabyCare
+88,Shampoing,Hygiène,422,157.26,31,2025-01-31,BabyCare
+89,Perceuse,Bricolage,138,72.32,46,2025-02-03,PetHouse
+90,Jouet chien,Animaux,82,158.68,24,2025-01-10,HygiPlus
+91,Jus d'orange,Alimentation,323,185.12,48,2025-01-31,VetDistribution
+92,Croquettes,Animaux,266,84.71,17,2025-02-09,VetDistribution
+93,Veste,Vêtements,442,9.78,22,2025-03-06,BabyCare
+94,T-shirt,Vêtements,330,98.21,8,2025-03-11,HygiPlus
+95,Couches,Bébé,428,140.15,25,2025-01-22,Bricomax
+96,Biberon,Bébé,347,44.48,50,2025-03-23,PetHouse
+97,Veste,Vêtements,442,100.34,50,2025-02-08,PetHouse
+98,Bouilloire,Électroménager,414,179.29,45,2025-01-17,Bricomax
+99,Savon,Hygiène,136,10.61,27,2025-04-07,HygiPlus
+100,Jean,Vêtements,489,15.79,42,2025-03-19,HygiPlus
+101,Dentifrice,Hygiène,151,28.6,35,2025-01-08,BabyCare
+102,Savon,Hygiène,51,39.19,34,2025-02-04,HygiPlus
+103,Gamelle,Animaux,395,239.83,36,2025-02-05,PetHouse
+104,Grille-pain,Électroménager,206,237.46,46,2025-01-20,Bricomax
+105,Chaussettes,Vêtements,299,65.44,49,2025-04-05,BabyCare
+106,Grille-pain,Électroménager,5,47.02,5,2025-01-26,PetHouse
+107,Aspirateur,Électroménager,155,120.81,13,2025-01-24,BabyCare
+108,Déodorant,Hygiène,218,158.94,19,2025-01-24,HygiPlus
+109,Gel douche,Hygiène,294,116.13,39,2025-01-24,HygiPlus
+110,Biberon,Bébé,366,41.42,43,2025-02-03,TechMarket
+111,T-shirt,Vêtements,152,205.26,43,2025-01-25,BabyCare
+112,T-shirt,Vêtements,453,168.03,46,2025-03-26,TechMarket
+113,T-shirt,Vêtements,383,33.73,16,2025-03-06,HygiPlus
+114,Riz,Alimentation,206,30.14,40,2025-01-27,PetHouse
+115,Biscottes,Alimentation,363,179.67,50,2025-02-24,PetHouse
+116,Aspirateur,Électroménager,52,57.08,48,2025-01-17,BabyCare
+117,Tournevis,Bricolage,169,24.03,5,2025-02-27,PetHouse
+118,Pull,Vêtements,22,188.96,49,2025-01-14,BabyCare
+119,Lait,Alimentation,135,126.17,45,2025-03-13,Bricomax
+120,Riz,Alimentation,245,137.13,40,2025-02-19,BabyCare
+121,Aspirateur,Électroménager,150,142.8,7,2025-01-17,BabyCare
+122,Chaussettes,Vêtements,148,69.24,6,2025-02-12,BabyCare
+123,Biberon,Bébé,435,94.64,14,2025-02-12,DistriFood
+124,Jus d'orange,Alimentation,353,170.64,21,2025-02-14,Bricomax
+125,Tournevis,Bricolage,331,143.2,31,2025-01-30,Bricomax
+126,Savon,Hygiène,168,137.51,5,2025-02-04,DistriFood
+127,Litière,Animaux,413,54.57,12,2025-01-22,VetDistribution
+128,Jus d'orange,Alimentation,234,238.41,41,2025-03-14,TechMarket
+129,Clous,Bricolage,410,11.18,24,2025-02-22,VetDistribution
+130,Vis,Bricolage,49,48.1,11,2025-01-11,TechMarket
+131,Clous,Bricolage,81,48.17,11,2025-02-18,Bricomax
+132,Croquettes,Animaux,39,142.83,25,2025-01-14,PetHouse
+133,Lait,Alimentation,176,66.07,7,2025-03-10,DistriFood
+134,Aspirateur,Électroménager,419,92.78,28,2025-02-02,HygiPlus
+135,Biberon,Bébé,46,122.52,24,2025-02-14,HygiPlus
+136,Biberon,Bébé,479,199.02,46,2025-02-15,HygiPlus
+137,T-shirt,Vêtements,464,105.79,35,2025-03-03,HygiPlus
+138,Chaussettes,Vêtements,438,155.8,34,2025-02-26,VetDistribution
+139,Céréales,Alimentation,351,43.62,34,2025-01-15,DistriFood
+140,Vis,Bricolage,285,101.46,31,2025-01-21,TechMarket
+141,Gel douche,Hygiène,247,190.86,27,2025-03-08,DistriFood
+142,Pull,Vêtements,155,211.64,34,2025-02-26,VetDistribution
+143,Biberon,Bébé,278,12.73,13,2025-01-28,HygiPlus
+144,T-shirt,Vêtements,14,16.88,9,2025-03-12,BabyCare
+145,Chaussettes,Vêtements,416,211.19,6,2025-03-29,TechMarket
+146,Clous,Bricolage,47,41.04,37,2025-02-17,TechMarket
+147,Savon,Hygiène,138,112.85,33,2025-01-20,PetHouse
+148,Bouilloire,Électroménager,130,205.31,45,2025-01-31,DistriFood
+149,Vis,Bricolage,333,34.91,20,2025-02-12,BabyCare
+150,Tournevis,Bricolage,188,218.1,18,2025-03-26,VetDistribution
+151,Couches,Bébé,399,211.44,36,2025-02-24,TechMarket
+152,Lait bébé,Bébé,156,113.34,30,2025-01-14,TechMarket
+153,Perceuse,Bricolage,303,217.37,38,2025-01-23,BabyCare
+154,Savon,Hygiène,446,215.32,40,2025-03-10,BabyCare
+155,Bouilloire,Électroménager,500,197.03,22,2025-03-16,BabyCare
+156,Jean,Vêtements,111,128.43,27,2025-03-17,BabyCare
+157,Grille-pain,Électroménager,318,131.5,17,2025-03-29,BabyCare
+158,Biberon,Bébé,279,86.67,21,2025-03-13,VetDistribution
+159,Pull,Vêtements,50,71.16,39,2025-03-06,Bricomax
+160,Clous,Bricolage,254,36.41,12,2025-02-09,TechMarket
+161,Biberon,Bébé,464,110.13,41,2025-03-22,TechMarket
+162,T-shirt,Vêtements,68,65.57,39,2025-02-16,PetHouse
+163,Gamelle,Animaux,32,117.31,42,2025-02-09,HygiPlus
+164,Perceuse,Bricolage,45,109.37,50,2025-03-13,TechMarket
+165,Aspirateur,Électroménager,104,82.29,37,2025-02-28,BabyCare
+166,Jean,Vêtements,408,44.15,16,2025-03-08,BabyCare
+167,Riz,Alimentation,295,244.96,8,2025-03-14,TechMarket
+168,Lait,Alimentation,247,171.56,48,2025-01-23,VetDistribution
+169,Gel douche,Hygiène,68,211.41,7,2025-03-02,HygiPlus
+170,Savon,Hygiène,49,216.93,26,2025-02-08,Bricomax
+171,Clous,Bricolage,276,57.53,15,2025-01-20,BabyCare
+172,Croquettes,Animaux,203,44.44,35,2025-03-05,BabyCare
+173,Tournevis,Bricolage,499,51.69,35,2025-04-04,DistriFood
+174,Biberon,Bébé,182,115.29,6,2025-02-13,DistriFood
+175,Pull,Vêtements,230,248.22,24,2025-02-01,BabyCare
+176,Clous,Bricolage,38,119.27,28,2025-02-06,TechMarket
+177,Jean,Vêtements,365,6.3,29,2025-02-05,DistriFood
+178,Biscottes,Alimentation,446,115.18,17,2025-01-24,PetHouse
+179,Savon,Hygiène,367,88.77,49,2025-03-11,PetHouse
+180,Gel douche,Hygiène,301,91.61,46,2025-03-29,PetHouse
+181,T-shirt,Vêtements,81,238.09,18,2025-02-25,PetHouse
+182,Jouet chien,Animaux,360,91.18,32,2025-03-15,VetDistribution
+183,Lait bébé,Bébé,119,74.54,8,2025-01-22,VetDistribution
+184,Jouet chien,Animaux,448,7.53,41,2025-01-20,BabyCare
+185,Savon,Hygiène,252,213.17,31,2025-03-24,HygiPlus
+186,Aspirateur,Électroménager,46,201.31,37,2025-02-16,HygiPlus
+187,Couches,Bébé,311,231.7,5,2025-03-27,Bricomax
+188,Savon,Hygiène,238,75.39,5,2025-01-18,PetHouse
+189,Shampoing,Hygiène,125,30.81,45,2025-01-12,PetHouse
+190,Pull,Vêtements,420,246.7,47,2025-03-20,PetHouse
+191,Lingettes,Bébé,371,63.94,15,2025-01-19,HygiPlus
+192,Bouilloire,Électroménager,471,248.15,33,2025-02-21,Bricomax
+193,Bouilloire,Électroménager,5,114.82,26,2025-03-28,DistriFood
+194,Mixeur,Électroménager,134,108.72,19,2025-03-11,PetHouse
+195,Biberon,Bébé,462,63.91,15,2025-01-18,Bricomax
+196,Jouet chien,Animaux,434,46.24,26,2025-01-08,TechMarket
+197,Chaussettes,Vêtements,28,200.39,37,2025-01-22,Bricomax
+198,Gamelle,Animaux,139,202.79,48,2025-01-20,Bricomax
+199,Dentifrice,Hygiène,473,10.78,5,2025-04-07,VetDistribution
+200,Lait,Alimentation,184,8.11,29,2025-02-22,HygiPlus
+201,Céréales,Alimentation,237,154.61,50,2025-01-11,Bricomax
+202,Lingettes,Bébé,106,36.35,44,2025-03-03,PetHouse
+203,Chaussettes,Vêtements,167,88.61,10,2025-01-18,DistriFood
+204,Jouet chien,Animaux,138,193.93,34,2025-01-30,BabyCare
+205,Perceuse,Bricolage,383,112.1,11,2025-02-16,BabyCare
+206,Croquettes,Animaux,79,116.49,33,2025-03-07,HygiPlus
+207,Lait bébé,Bébé,227,171.92,34,2025-03-20,TechMarket
+208,Riz,Alimentation,277,130.52,22,2025-01-27,BabyCare
+209,Lingettes,Bébé,95,133.55,50,2025-02-04,BabyCare
+210,Gel douche,Hygiène,173,163.82,44,2025-03-28,PetHouse
+211,Clous,Bricolage,129,79.69,10,2025-03-10,PetHouse
+212,Mixeur,Électroménager,208,237.52,32,2025-01-08,BabyCare
+213,Lait bébé,Bébé,367,59.96,45,2025-04-01,TechMarket
+214,Biberon,Bébé,178,245.11,40,2025-03-01,BabyCare
+215,Shampoing,Hygiène,173,119.06,42,2025-03-22,BabyCare
+216,Biberon,Bébé,302,18.51,8,2025-02-06,PetHouse
+217,Gamelle,Animaux,446,206.2,45,2025-03-11,PetHouse
+218,Jus d'orange,Alimentation,205,79.91,25,2025-01-12,TechMarket
+219,Pâtes,Alimentation,306,82.68,33,2025-03-31,VetDistribution
+220,T-shirt,Vêtements,81,142.54,14,2025-03-04,DistriFood
+221,Jus d'orange,Alimentation,424,120.2,33,2025-02-13,BabyCare
+222,T-shirt,Vêtements,185,12.85,10,2025-03-27,BabyCare
+223,Grille-pain,Électroménager,452,222.5,26,2025-01-18,VetDistribution
+224,Grille-pain,Électroménager,370,236.9,35,2025-02-23,DistriFood
+225,Lait,Alimentation,96,81.02,36,2025-03-12,PetHouse
+226,Croquettes,Animaux,424,141.3,13,2025-03-13,TechMarket
+227,Veste,Vêtements,463,239.51,9,2025-03-03,VetDistribution
+228,Mixeur,Électroménager,304,229.22,17,2025-01-30,VetDistribution
+229,Litière,Animaux,463,144.33,41,2025-01-19,HygiPlus
+230,Jouet chien,Animaux,291,217.08,20,2025-02-24,Bricomax
+231,Gamelle,Animaux,203,209.51,40,2025-03-08,DistriFood
+232,Déodorant,Hygiène,320,195.61,6,2025-01-15,DistriFood
+233,Gel douche,Hygiène,65,194.35,21,2025-03-15,DistriFood
+234,Jus d'orange,Alimentation,453,104.6,30,2025-01-13,DistriFood
+235,Pull,Vêtements,205,112.49,29,2025-02-07,DistriFood
+236,Dentifrice,Hygiène,385,6.49,14,2025-01-14,TechMarket
+237,Perceuse,Bricolage,59,187.66,44,2025-03-07,Bricomax
+238,Céréales,Alimentation,82,66.14,12,2025-03-08,BabyCare
+239,Vis,Bricolage,264,245.85,29,2025-01-15,BabyCare
+240,Lingettes,Bébé,498,204.67,38,2025-03-21,VetDistribution
+241,Marteau,Bricolage,181,145.36,5,2025-03-04,PetHouse
+242,Veste,Vêtements,382,81.75,43,2025-02-14,PetHouse
+243,Jouet chien,Animaux,332,73.11,49,2025-03-09,VetDistribution
+244,Grille-pain,Électroménager,380,207.33,36,2025-03-22,DistriFood
+245,Pull,Vêtements,196,206.58,26,2025-02-20,VetDistribution
+246,Biscottes,Alimentation,276,51.62,18,2025-04-05,Bricomax
+247,Grille-pain,Électroménager,416,230.61,46,2025-02-20,TechMarket
+248,Croquettes,Animaux,171,107.06,31,2025-03-06,BabyCare
+249,Gamelle,Animaux,376,105.48,7,2025-03-01,Bricomax
+250,Biberon,Bébé,397,73.73,8,2025-03-15,HygiPlus
+251,Marteau,Bricolage,240,130.86,50,2025-02-02,HygiPlus
+252,Croquettes,Animaux,393,198.08,16,2025-01-23,PetHouse
+253,Jouet chien,Animaux,420,156.94,40,2025-03-02,TechMarket
+254,Riz,Alimentation,342,94.61,24,2025-02-01,DistriFood
+255,Jus d'orange,Alimentation,294,42.08,46,2025-03-30,HygiPlus
+256,Biberon,Bébé,321,19.14,22,2025-02-28,VetDistribution
+257,Gamelle,Animaux,373,14.62,13,2025-02-03,BabyCare
+258,Savon,Hygiène,369,183.05,43,2025-02-27,HygiPlus
+259,Mixeur,Électroménager,247,94.13,46,2025-03-24,DistriFood
+260,Aspirateur,Électroménager,367,22.77,36,2025-02-22,PetHouse
+261,Chaussettes,Vêtements,216,31.61,33,2025-03-31,HygiPlus
+262,Gamelle,Animaux,69,37.21,45,2025-03-25,HygiPlus
+263,Riz,Alimentation,121,213.43,44,2025-02-24,VetDistribution
+264,Marteau,Bricolage,321,126.43,30,2025-01-24,TechMarket
+265,Dentifrice,Hygiène,495,240.85,14,2025-02-14,DistriFood
+266,Biberon,Bébé,140,61.4,15,2025-01-17,BabyCare
+267,Lait bébé,Bébé,228,241.53,45,2025-03-26,PetHouse
+268,Grille-pain,Électroménager,116,249.88,49,2025-03-12,PetHouse
+269,Aspirateur,Électroménager,146,246.17,8,2025-03-04,DistriFood
+270,Litière,Animaux,276,81.62,18,2025-02-19,DistriFood
+271,Litière,Animaux,400,96.32,10,2025-03-11,BabyCare
+272,Tournevis,Bricolage,104,237.68,46,2025-03-16,VetDistribution
+273,Tournevis,Bricolage,327,197.31,48,2025-02-26,HygiPlus
+274,Dentifrice,Hygiène,350,141.61,6,2025-03-28,TechMarket
+275,Déodorant,Hygiène,265,229.75,31,2025-03-10,DistriFood
+276,Biberon,Bébé,427,26.66,33,2025-02-26,VetDistribution
+277,Gel douche,Hygiène,268,44.41,45,2025-01-29,Bricomax
+278,Tournevis,Bricolage,266,89.7,46,2025-03-15,Bricomax
+279,Marteau,Bricolage,19,159.39,38,2025-03-25,PetHouse
+280,Tournevis,Bricolage,301,210.17,29,2025-01-08,VetDistribution
+281,T-shirt,Vêtements,135,118.26,45,2025-02-28,BabyCare
+282,Mixeur,Électroménager,214,176.55,37,2025-03-21,TechMarket
+283,Lingettes,Bébé,106,145.42,32,2025-02-12,TechMarket
+284,Céréales,Alimentation,226,159.47,42,2025-01-15,PetHouse
+285,Savon,Hygiène,440,247.01,17,2025-01-21,TechMarket
+286,Vis,Bricolage,65,125.07,13,2025-02-04,BabyCare
+287,Mixeur,Électroménager,55,178.09,44,2025-03-13,PetHouse
+288,Marteau,Bricolage,342,152.3,38,2025-01-21,BabyCare
+289,T-shirt,Vêtements,279,61.92,20,2025-02-01,DistriFood
+290,Savon,Hygiène,14,53.53,43,2025-03-26,VetDistribution
+291,Bouilloire,Électroménager,258,163.91,13,2025-01-22,VetDistribution
+292,Aspirateur,Électroménager,192,38.6,31,2025-03-05,VetDistribution
+293,Jouet chien,Animaux,224,64.03,33,2025-03-27,BabyCare
+294,Tournevis,Bricolage,141,89.8,20,2025-02-17,Bricomax
+295,Gel douche,Hygiène,357,88.85,45,2025-01-18,TechMarket
+296,Dentifrice,Hygiène,362,17.16,19,2025-02-25,HygiPlus
+297,Couches,Bébé,476,128.1,10,2025-01-30,BabyCare
+298,Litière,Animaux,99,30.25,34,2025-02-04,VetDistribution
+299,T-shirt,Vêtements,438,3.44,5,2025-03-10,BabyCare
+300,Gamelle,Animaux,179,136.0,50,2025-03-13,TechMarket
+301,Biscottes,Alimentation,13,113.1,30,2025-03-22,TechMarket
+302,Biscottes,Alimentation,385,4.27,15,2025-01-15,TechMarket
+303,Déodorant,Hygiène,245,11.49,6,2025-04-01,VetDistribution
+304,Vis,Bricolage,391,101.02,34,2025-02-20,TechMarket
+305,Perceuse,Bricolage,462,139.62,14,2025-03-15,PetHouse
+306,Couches,Bébé,356,197.94,28,2025-02-17,DistriFood
+307,T-shirt,Vêtements,302,54.88,48,2025-01-29,PetHouse
+308,Lait,Alimentation,323,153.94,35,2025-03-08,DistriFood
+309,Lingettes,Bébé,67,112.18,8,2025-01-20,TechMarket
+310,Déodorant,Hygiène,442,124.51,18,2025-01-15,Bricomax
+311,Biberon,Bébé,318,206.55,19,2025-01-26,PetHouse
+312,Couches,Bébé,454,83.53,24,2025-03-06,VetDistribution
+313,Litière,Animaux,335,173.12,8,2025-01-14,PetHouse
+314,T-shirt,Vêtements,153,84.88,42,2025-02-07,DistriFood
+315,Savon,Hygiène,221,218.23,28,2025-03-18,HygiPlus
+316,Veste,Vêtements,111,60.22,20,2025-03-03,TechMarket
+317,Savon,Hygiène,185,183.1,47,2025-03-15,TechMarket
+318,Vis,Bricolage,484,8.33,31,2025-03-03,HygiPlus
+319,Savon,Hygiène,173,244.9,20,2025-01-30,TechMarket
+320,Aspirateur,Électroménager,399,236.61,21,2025-04-02,TechMarket
+321,Pull,Vêtements,141,229.31,7,2025-03-18,DistriFood
+322,Shampoing,Hygiène,438,4.8,23,2025-02-12,TechMarket
+323,Lait bébé,Bébé,395,12.32,10,2025-01-29,Bricomax
+324,Croquettes,Animaux,26,89.95,17,2025-01-23,Bricomax
+325,Jouet chien,Animaux,177,64.16,17,2025-03-08,VetDistribution
+326,Jus d'orange,Alimentation,99,131.04,22,2025-03-18,VetDistribution
+327,Aspirateur,Électroménager,249,91.22,41,2025-01-09,DistriFood
+328,Perceuse,Bricolage,317,144.26,7,2025-02-09,PetHouse
+329,Jouet chien,Animaux,468,101.43,13,2025-02-12,Bricomax
+330,Déodorant,Hygiène,380,65.45,35,2025-01-15,DistriFood
+331,Biberon,Bébé,275,66.94,24,2025-03-10,BabyCare
+332,T-shirt,Vêtements,132,239.02,47,2025-03-07,HygiPlus
+333,Céréales,Alimentation,217,97.28,42,2025-02-28,BabyCare
+334,Jean,Vêtements,300,14.56,30,2025-02-26,TechMarket
+335,Tournevis,Bricolage,235,132.84,21,2025-02-25,VetDistribution
+336,Aspirateur,Électroménager,273,247.68,25,2025-03-20,VetDistribution
+337,Clous,Bricolage,189,199.71,23,2025-03-06,DistriFood
+338,Marteau,Bricolage,100,157.71,44,2025-03-06,BabyCare
+339,Mixeur,Électroménager,444,139.06,20,2025-01-25,VetDistribution
+340,Mixeur,Électroménager,89,42.06,9,2025-03-25,DistriFood
+341,Céréales,Alimentation,224,85.28,15,2025-01-23,VetDistribution
+342,Aspirateur,Électroménager,1,42.06,36,2025-01-16,TechMarket
+343,Lait bébé,Bébé,424,80.82,43,2025-02-01,BabyCare
+344,Tournevis,Bricolage,413,33.85,31,2025-01-22,BabyCare
+345,Bouilloire,Électroménager,140,207.64,8,2025-01-08,DistriFood
+346,Déodorant,Hygiène,131,36.65,43,2025-01-29,TechMarket
+347,Marteau,Bricolage,275,92.18,22,2025-01-25,Bricomax
+348,Couches,Bébé,67,16.6,39,2025-03-20,DistriFood
+349,Mixeur,Électroménager,235,5.45,35,2025-01-29,BabyCare
+350,Jean,Vêtements,16,29.28,22,2025-01-22,Bricomax
+351,Jouet chien,Animaux,426,148.35,16,2025-02-08,HygiPlus
+352,Vis,Bricolage,328,72.27,40,2025-01-16,HygiPlus
+353,Lait bébé,Bébé,15,218.3,38,2025-04-03,HygiPlus
+354,Marteau,Bricolage,124,113.8,22,2025-03-31,Bricomax
+355,Aspirateur,Électroménager,473,131.91,6,2025-01-25,DistriFood
+356,Lait bébé,Bébé,165,143.9,40,2025-01-27,Bricomax
+357,Tournevis,Bricolage,85,155.4,46,2025-03-19,HygiPlus
+358,Veste,Vêtements,168,37.38,10,2025-02-27,BabyCare
+359,Bouilloire,Électroménager,409,32.6,6,2025-01-21,HygiPlus
+360,Biberon,Bébé,447,205.24,44,2025-02-11,BabyCare
+361,Shampoing,Hygiène,405,17.06,7,2025-03-09,BabyCare
+362,Litière,Animaux,403,235.61,23,2025-01-15,HygiPlus
+363,Aspirateur,Électroménager,74,30.22,49,2025-02-22,DistriFood
+364,Veste,Vêtements,340,85.01,20,2025-02-05,VetDistribution
+365,Lait bébé,Bébé,139,171.29,33,2025-02-24,VetDistribution
+366,Veste,Vêtements,383,169.63,24,2025-02-23,BabyCare
+367,Lait bébé,Bébé,397,109.52,29,2025-02-16,TechMarket
+368,Lingettes,Bébé,430,234.41,50,2025-03-25,Bricomax
+369,Pâtes,Alimentation,113,187.06,44,2025-03-11,TechMarket
+370,Mixeur,Électroménager,138,118.69,39,2025-03-15,Bricomax
+371,Bouilloire,Électroménager,280,217.19,39,2025-03-02,DistriFood
+372,Jean,Vêtements,457,169.79,5,2025-02-19,DistriFood
+373,Gamelle,Animaux,396,55.5,17,2025-01-20,DistriFood
+374,Jouet chien,Animaux,82,27.32,32,2025-02-17,TechMarket
+375,Gel douche,Hygiène,36,244.03,48,2025-03-18,PetHouse
+376,Dentifrice,Hygiène,437,82.85,36,2025-03-19,DistriFood
+377,Lingettes,Bébé,208,178.69,50,2025-02-07,DistriFood
+378,Lait bébé,Bébé,466,194.51,35,2025-01-17,BabyCare
+379,Biscottes,Alimentation,200,78.77,13,2025-01-17,DistriFood
+380,Déodorant,Hygiène,193,176.25,33,2025-01-26,BabyCare
+381,Biscottes,Alimentation,268,124.99,38,2025-03-19,PetHouse
+382,T-shirt,Vêtements,149,86.84,6,2025-03-24,HygiPlus
+383,Pull,Vêtements,334,2.15,43,2025-01-27,DistriFood
+384,Jean,Vêtements,55,245.51,9,2025-03-08,BabyCare
+385,Croquettes,Animaux,49,92.73,42,2025-02-10,BabyCare
+386,Tournevis,Bricolage,488,225.41,15,2025-04-01,BabyCare
+387,Aspirateur,Électroménager,200,122.64,28,2025-01-26,HygiPlus
+388,Chaussettes,Vêtements,135,9.64,45,2025-02-19,Bricomax
+389,Jus d'orange,Alimentation,221,55.65,25,2025-03-18,DistriFood
+390,Vis,Bricolage,243,189.36,46,2025-03-17,PetHouse
+391,Grille-pain,Électroménager,355,51.27,24,2025-03-29,BabyCare
+392,Chaussettes,Vêtements,431,236.76,34,2025-02-16,BabyCare
+393,T-shirt,Vêtements,229,64.84,26,2025-01-09,HygiPlus
+394,Clous,Bricolage,260,67.28,31,2025-02-02,TechMarket
+395,T-shirt,Vêtements,73,249.59,16,2025-01-22,BabyCare
+396,Mixeur,Électroménager,305,76.47,45,2025-03-08,PetHouse
+397,Litière,Animaux,100,217.79,46,2025-02-20,PetHouse
+398,Litière,Animaux,136,97.52,31,2025-03-29,DistriFood
+399,Lait bébé,Bébé,362,192.28,10,2025-02-28,PetHouse
+400,Litière,Animaux,470,118.08,25,2025-02-14,TechMarket
+401,Perceuse,Bricolage,371,108.91,30,2025-03-01,DistriFood
+402,Gel douche,Hygiène,291,69.47,32,2025-03-14,DistriFood
+403,Gamelle,Animaux,302,106.68,11,2025-03-11,DistriFood
+404,Dentifrice,Hygiène,198,49.71,30,2025-02-05,VetDistribution
+405,Shampoing,Hygiène,128,187.37,27,2025-02-14,DistriFood
+406,Croquettes,Animaux,421,199.33,36,2025-04-01,HygiPlus
+407,Jouet chien,Animaux,337,183.7,13,2025-02-22,TechMarket
+408,Shampoing,Hygiène,309,142.8,9,2025-01-30,BabyCare
+409,Chaussettes,Vêtements,288,19.99,42,2025-01-24,HygiPlus
+410,Shampoing,Hygiène,259,244.45,49,2025-01-31,PetHouse
+411,Clous,Bricolage,30,243.09,46,2025-02-22,HygiPlus
+412,Croquettes,Animaux,204,21.83,23,2025-02-20,TechMarket
+413,Jouet chien,Animaux,145,132.48,46,2025-01-15,VetDistribution
+414,Veste,Vêtements,240,197.77,25,2025-03-22,Bricomax
+415,Lait bébé,Bébé,256,162.72,12,2025-03-03,HygiPlus
+416,Bouilloire,Électroménager,283,221.56,34,2025-04-06,BabyCare
+417,Gamelle,Animaux,310,189.18,18,2025-02-12,VetDistribution
+418,Grille-pain,Électroménager,6,171.84,5,2025-02-14,BabyCare
+419,Grille-pain,Électroménager,204,20.59,32,2025-01-28,PetHouse
+420,Dentifrice,Hygiène,36,132.01,24,2025-03-30,BabyCare
+421,Dentifrice,Hygiène,464,211.36,43,2025-01-09,TechMarket
+422,Bouilloire,Électroménager,112,207.81,31,2025-02-15,HygiPlus
+423,Biscottes,Alimentation,391,236.11,22,2025-03-25,DistriFood
+424,Litière,Animaux,302,41.97,35,2025-02-22,Bricomax
+425,Marteau,Bricolage,427,149.13,50,2025-02-11,TechMarket
+426,Marteau,Bricolage,463,196.95,33,2025-03-12,Bricomax
+427,Grille-pain,Électroménager,88,179.72,16,2025-01-25,BabyCare
+428,Vis,Bricolage,31,141.58,38,2025-03-03,BabyCare
+429,Bouilloire,Électroménager,241,100.84,12,2025-03-09,BabyCare
+430,Gel douche,Hygiène,485,11.76,32,2025-02-15,BabyCare
+431,Gamelle,Animaux,79,121.53,37,2025-02-16,HygiPlus
+432,Mixeur,Électroménager,408,39.75,29,2025-02-24,TechMarket
+433,Litière,Animaux,74,34.72,26,2025-03-08,TechMarket
+434,Mixeur,Électroménager,42,23.96,17,2025-03-17,PetHouse
+435,Bouilloire,Électroménager,234,97.2,45,2025-04-06,BabyCare
+436,Biscottes,Alimentation,338,193.81,22,2025-04-03,TechMarket
+437,Pull,Vêtements,21,29.02,47,2025-02-17,PetHouse
+438,Tournevis,Bricolage,61,244.76,29,2025-02-13,DistriFood
+439,Lingettes,Bébé,404,73.9,29,2025-03-21,Bricomax
+440,Savon,Hygiène,396,117.99,21,2025-02-21,Bricomax
+441,Couches,Bébé,406,179.98,39,2025-01-28,DistriFood
+442,Lait bébé,Bébé,44,22.63,47,2025-02-17,HygiPlus
+443,Tournevis,Bricolage,455,2.86,18,2025-01-09,Bricomax
+444,Pâtes,Alimentation,148,39.58,48,2025-02-26,TechMarket
+445,Jean,Vêtements,445,185.7,19,2025-03-01,VetDistribution
+446,Clous,Bricolage,179,208.5,32,2025-02-16,HygiPlus
+447,Marteau,Bricolage,290,102.15,21,2025-04-06,DistriFood
+448,Biberon,Bébé,457,70.86,50,2025-02-13,PetHouse
+449,Dentifrice,Hygiène,268,54.15,47,2025-03-23,VetDistribution
+450,Grille-pain,Électroménager,235,171.15,7,2025-02-02,DistriFood
+451,Jean,Vêtements,275,65.47,36,2025-02-02,VetDistribution
+452,Savon,Hygiène,402,39.32,17,2025-03-17,BabyCare
+453,Savon,Hygiène,329,109.84,46,2025-03-28,TechMarket
+454,Céréales,Alimentation,81,82.75,23,2025-04-05,VetDistribution
+455,Jean,Vêtements,353,21.5,35,2025-02-17,DistriFood
+456,Dentifrice,Hygiène,177,79.34,13,2025-02-25,DistriFood
+457,Jouet chien,Animaux,95,112.94,16,2025-02-27,TechMarket
+458,Shampoing,Hygiène,95,230.08,49,2025-01-12,BabyCare
+459,Shampoing,Hygiène,244,36.16,29,2025-01-29,DistriFood
+460,Jouet chien,Animaux,226,137.68,20,2025-02-18,BabyCare
+461,Jean,Vêtements,209,74.75,13,2025-03-29,DistriFood
+462,Litière,Animaux,288,180.69,13,2025-02-06,VetDistribution
+463,Lait bébé,Bébé,83,209.74,29,2025-02-21,Bricomax
+464,Aspirateur,Électroménager,473,212.68,18,2025-03-04,TechMarket
+465,Shampoing,Hygiène,126,133.79,39,2025-03-19,HygiPlus
+466,Bouilloire,Électroménager,123,59.14,43,2025-01-11,PetHouse
+467,Dentifrice,Hygiène,226,56.77,37,2025-02-12,VetDistribution
+468,Pull,Vêtements,253,36.37,24,2025-04-04,HygiPlus
+469,Riz,Alimentation,237,109.9,21,2025-03-22,VetDistribution
+470,Déodorant,Hygiène,448,26.8,14,2025-02-09,DistriFood
+471,Déodorant,Hygiène,22,17.03,44,2025-01-31,BabyCare
+472,Aspirateur,Électroménager,219,10.45,24,2025-01-10,TechMarket
+473,Chaussettes,Vêtements,105,18.15,48,2025-02-12,PetHouse
+474,Clous,Bricolage,326,102.23,37,2025-01-18,TechMarket
+475,Tournevis,Bricolage,166,85.48,25,2025-03-26,TechMarket
+476,Pâtes,Alimentation,34,139.97,40,2025-02-26,Bricomax
+477,Croquettes,Animaux,424,177.09,23,2025-03-08,DistriFood
+478,Jouet chien,Animaux,334,146.32,29,2025-02-05,HygiPlus
+479,Veste,Vêtements,464,239.95,22,2025-01-30,PetHouse
+480,Déodorant,Hygiène,172,212.57,16,2025-01-11,Bricomax
+481,Perceuse,Bricolage,445,249.19,27,2025-04-02,HygiPlus
+482,Shampoing,Hygiène,80,69.42,48,2025-03-22,PetHouse
+483,Aspirateur,Électroménager,209,203.73,5,2025-02-06,HygiPlus
+484,Biberon,Bébé,66,35.52,36,2025-03-17,BabyCare
+485,Veste,Vêtements,417,184.55,33,2025-02-26,TechMarket
+486,Marteau,Bricolage,480,20.01,8,2025-03-28,VetDistribution
+487,Shampoing,Hygiène,455,193.19,24,2025-01-23,BabyCare
+488,Jouet chien,Animaux,446,40.77,38,2025-01-31,HygiPlus
+489,Chaussettes,Vêtements,84,8.01,7,2025-02-22,PetHouse
+490,Jouet chien,Animaux,234,93.83,22,2025-01-27,DistriFood
+491,Mixeur,Électroménager,283,196.84,7,2025-03-22,TechMarket
+492,Bouilloire,Électroménager,464,12.69,44,2025-04-04,Bricomax
+493,Lait bébé,Bébé,459,216.73,5,2025-02-05,Bricomax
+494,Gel douche,Hygiène,424,48.04,33,2025-01-28,PetHouse
+495,Chaussettes,Vêtements,451,232.49,48,2025-03-31,HygiPlus
+496,Vis,Bricolage,302,19.33,44,2025-03-23,Bricomax
+497,Tournevis,Bricolage,287,115.22,8,2025-01-20,BabyCare
+498,Aspirateur,Électroménager,330,237.45,34,2025-02-10,DistriFood
+499,Lait bébé,Bébé,149,156.07,8,2025-01-30,TechMarket
+500,Savon,Hygiène,434,140.02,21,2025-02-21,BabyCare

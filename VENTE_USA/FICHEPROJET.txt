@@ -1,0 +1,130 @@
+Besoins métiers pour éclairer la prise de décision
+
+-----------------------------------------------------
+
+ 1. Chiffre d’affaires et volume des ventes
+
+a) Objectifs métier 
+- Suivre la performance mensuelle et globale  
+- Mesurer l’activité commerciale et piloter la logistique  
+- Optimiser le mix-produit et les offres promotionnelles  
+
+b) KPIs 
+- Chiffre d’affaires total 
+
+- Nombre de commandes  
+- Panier moyen  
+
+c) Insights 
+- Quelle est l’évolution du chiffre d’affaires mois par mois ?  
+  Y a-t-il une saisonnalité (fin de mois, week-ends, etc.) ?  
+- Quels sont les mois/périodes avec le meilleur panier moyen ?  
+  Faut-il ajuster les promotions ou inciter à l’achat groupé ?  
+
+-----------------------------------------------------
+
+ 2. Performance des produits
+
+a) Objectifs métier 
+- Identifier les best-sellers et les produits à faible rotation  
+- Prioriser le réassort et ajuster les négociations fournisseurs  
+- Évaluer la contribution de chaque produit au chiffre d’affaires  
+
+b) KPIs 
+- Quantité vendue par produit  
+- Chiffre d’affaires par produit  
+- Taux de contribution (%) de chaque produit  
+
+c) Insights 
+- Quels sont les 5 produits qui génèrent 70 % du chiffre d’affaires ?  
+- Quels produits à faible rotation faut-il arrêter ou promouvoir davantage ?  
+
+-----------------------------------------------------
+
+ 3. Répartition géographique des ventes
+
+a) Objectifs métier 
+- Cibler les campagnes marketing par zone géographique  
+- Adapter la logistique et les stocks selon la demande locale  
+- Identifier les zones à fort potentiel de développement  
+
+b) KPIs 
+- Chiffre d’affaires par ville/État  
+- Nombre de commandes par ville  
+- Chiffre d’affaires moyen par adresse  
+
+c) Insights 
+- Quelles villes ou États surperforment ou sous-performent ?  
+- Faut-il mettre en place des hubs logistiques ou des partenariats régionaux ?  
+
+-----------------------------------------------------
+
+ 4. Temporalité des ventes
+
+a) Objectifs métier 
+- Adapter les ressources humaines (hotline, préparation commandes)  
+- Suivre les variations d'activité mois par mois  
+- Identifier les pics d’activité à anticiper  
+
+b) KPIs 
+- Volume de commandes par heure ou jour  
+- Taux de croissance mensuel (MoM)  
+- Taux de croissance cumulée  
+
+c) Insights 
+- Existe-t-il des “heures creuses” ou “happy hours” à fort volume ?  
+- Comment évoluent les ventes d’un mois à l’autre ?  
+
+-----------------------------------------------------
+
+ 5. Qualité des données & efficacité opérationnelle
+
+a) Objectifs métier 
+- Améliorer la qualité de la base clients et réduire les retours  
+- Identifier les goulets d’étranglement dans le traitement des commandes  
+- Renforcer la fiabilité des pipelines de données  
+
+b) KPIs 
+- Taux d’adresses invalides  
+- Temps moyen de traitement (si dispo)  
+- Taux d’erreurs (SQL, format, rejet)  
+
+c) Insights 
+- Combien de lignes présentent des adresses incomplètes ou erronées ?  
+- Quels processus sont les plus chronophages ?  
+
+-----------------------------------------------------
+
+ 6. Prédiction des ventes (année suivante)
+
+a) Objectifs métier 
+- Anticiper la demande pour ajuster la production, le stock et les équipes  
+- Planifier les campagnes marketing et les promotions à venir  
+- Estimer les ressources à allouer (logistique, budget, RH)  
+
+b) KPIs 
+- Prévision des ventes par mois / produit / région  
+- Écart entre prévisions et ventes réelles (taux d’erreur de prédiction)  
+
+c) Insights 
+- Quels produits seront les plus demandés dans l’année à venir ?  
+- Quelles tendances de consommation se dessinent ?  
+
+-----------------------------------------------------
+
+ Données disponibles 
+- 12 fichiers de ventes de l’année 2019 
+- Mois couverts :les 12 mois
+
+-----------------------------------------------------
+
+ 7. Perspectives & axes d'amélioration
+
+a) Consolider les 4 fichiers en un seul dataset (ajout d’une colonne "Mois")  
+b) Automatiser le calcul des KPIs via un notebook ou un dashboard (Power BI, Tableau)  
+c) Mettre en place des alertes(ex : MoM CA < -10 %, taux d’erreur > 2 %)  
+d) Prioriser les actions:  
+   - Optimisation des requêtes SQL  
+   - Nettoyage de la base client (adresses)  
+   - Ciblage marketing intelligent  
+   - Réallocation des ressources logistiques  

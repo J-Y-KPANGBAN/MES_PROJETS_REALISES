@@ -1,0 +1,9 @@
+Année,Mises en demeure,Montant amendes (€),Nombre de sanctions,Source
+2017,79,5000000,30,(itlaw.fr; CNIL Rapport 2017)
+2018,49,12000000,45,(cnil.fr; CNIL Rapport 2018)
+2019,42,8000000,40,(cnil.fr)
+2020,49,15000000,55,(cnil.fr)
+2021,135,20000000,87,(cnil.fr; vie-publique.fr)
+2022,147,10000000,99,(cnil.fr)
+2023,168,18000000,78,(cnil.fr)
+2024,180,55000000,87,(vie-publique.fr; CNIL Rapport 2024)
